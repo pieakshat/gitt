@@ -1,0 +1,7 @@
+git branch -a -vv
+  main                         43a0f1b [origin/main: ahead 1] added merge_branch
+* revert-branch                6ad696e [origin/revert-branch] Add PR verification via curl
+  t2                           43a0f1b [origin/t2] added merge_branch
+  remotes/origin/main          15568ab added simple interest script
+  remotes/origin/revert-branch 6ad696e Add PR verification via curl
+  remotes/origin/t2            43a0f1b added merge_branch
